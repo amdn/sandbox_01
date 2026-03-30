@@ -5,4 +5,4 @@ Doodle with README
 <img src="https://raw.githubusercontent.com/amdn/sandbox_01/main/animated.svg">
 
 ## Clickable
-<img src="graph.svg" alt="Clickable SVG graph">
+<img src="https://raw.githubusercontent.com/amdn/sandbox_01/main/graph.svg" alt="Clickable SVG graph">
