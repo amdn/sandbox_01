@@ -2,7 +2,7 @@
 Doodle with README
 
 ## Animated
-<img src="https://amdn.github.io/sandbox_01/animated.svg" alt="Animated SVG">
+<object type="image/svg+xml" data="animated.svg"></object>
 
 ## Clickable
 <img src="https://amdn.github.io/sandbox_01/graph.svg" alt="Clickable SVG graph">
