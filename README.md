@@ -2,7 +2,7 @@
 Doodle with README
 
 ## Animated
-<img src="https://<username>.github.io/<repo-name>/animated.svg" alt="Animated SVG">
+<img src="https://amdn.github.io/sandbox_01/animated.svg" alt="Animated SVG">
 
 ## Clickable
-<img src="https://<username>.github.io/<repo-name>/graph.svg" alt="Clickable SVG graph">
+<img src="https://amdn.github.io/sandbox_01/graph.svg" alt="Clickable SVG graph">
